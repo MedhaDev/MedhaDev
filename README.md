@@ -1,4 +1,5 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/faaa1875-0cd9-4c7a-82d3-ee6648e043ab)
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/d8d88a4f-c4eb-4b48-a354-ac9299f68d6a)
+
 👋 Hi, I’m Medha Devalraj.
 
 🎓 I'm a graduate student at Penn State, majoring in Information Systems. I'm also working as a Research Specialist & Data Analyst at ISRA, Penn State Harrisburg.
