@@ -1,4 +1,4 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner-2](https://github.com/user-attachments/assets/0708d5ea-d3f6-418d-abad-c657596ee5bc)
+<img width="1584" height="396" alt="Black and White Illustrative Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/8f602b8a-1d80-4fc4-996e-640e5f4f9a8f" />
 
 👋 Hi, I’m Medha Devalraj.
 
