@@ -1,14 +1,31 @@
-<img width="1584" height="396" alt="Black and White Illustrative Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/8f602b8a-1d80-4fc4-996e-640e5f4f9a8f" />
+# ✨ hi, i'm medha! 
 
+**penn state alum 🦁 | research data management specialist @ penn state**
 
-👋 Hi, I’m Medha Devalraj.
+I’m a lover of clean data, structured workflows, and a perfectly optimized SQL query. Currently, I’m working at the Edna Bennett Pierce Prevention Research Center, where I spend my days untangling complex datasets and making sure research findings actually make sense for the real world 🎀
 
-🎓 I'm a graduate student at Penn State, majoring in Information Systems. I'm also working as a Research Specialist & Data Analyst at ISRA, Penn State Harrisburg.
+---
 
-🌱 Recently, I’ve been focused on advanced SQL development - including stored procedures, window functions, and performance optimization. I’ve also been sharpening my Power BI skills with advanced data modeling, DAX, and scalable dashboard design. These efforts are all part of building a strong portfolio and technical foundation as I work toward landing a full-time data analyst role.
+### 🚀 my data era
+I’m currently focused on bridging the gap between "messy spreadsheets" and "smart decisions" 
 
-💞️ I enjoy connecting with professionals in tech & Research community to learn more about their job role, work life, and all the other fun stuff that comes with it! Outside of work, I love exploring different cuisines, cooking new dishes, and watching great films(occasionally some mainstream or brainrot ones as well).
+* **The SQL Glow-up:** I’ve been deep-diving into stored procedures and window functions lately. I love taking a slow, clunky query and making it run like a dream ⚡
+* **Storytelling with Data:** Whether it’s Power BI or a policy brief, I live for the "Aha!" moment when a stakeholder finally sees the pattern in the numbers 📊
+* **Data Governance:** Think of me as the "organized bestie" for datasets. I set up the validation rules and workflows so the data stays reliable and clean 🫧
 
-📫 How to reach me: [Message me on LinkedIn](https://www.linkedin.com/in/medhasharma-dev) or email me at [medhasharma.dev@gmail.com](mailto:medhasharma.dev@gmail.com)
+### 🛠️ the toolkit
+* **Languages:** SQL (my first love), Python, R
+* **Platforms:** REDCap, Snowflake, PostgreSQL, Salesforce, AWS
+* **Viz:** Tableau, Power BI, Excel (the classic)
 
-📂 I’m currently building my data analytics portfolio — stay tuned for new projects soon!
+---
+
+### 🍰 beyond the screen
+When I’m not in a database, you can find me:
+* 🥘 Exploring the best food spots or trying a new recipe at home
+* 🍿 Watching a good movie (or a total "brainrot" movie for the vibes)
+* 💬 Chatting about tech, research, and career journeys
+
+📫 **let’s be friends:** [linkedin](https://www.linkedin.com/in/medhasharma-dev) | [email](mailto:medhasharma.dev@gmail.com)
+
+📂 *actively building out this space... stay tuned for more projects!* ✨
