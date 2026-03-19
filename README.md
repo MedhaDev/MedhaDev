@@ -21,9 +21,9 @@ Penn State alum and data professional with hands-on experience across the full a
 
 At the **Edna Bennett Pierce Prevention Research Center**, I own end-to-end data management for multi-cohort longitudinal studies: designing REDCap schemas, implementing field-level validation rules, resolving upstream data entry inconsistencies, and delivering clean, analysis-ready datasets for investigators. Think of it as building the reliability layer before the analysis layer even starts.
 
-Before that, at the **Institute of State and Regional Affairs**, I went deeper into the engineering side — redesigning SQL Server schemas, profiling data quality issues, indexing key tables to cut query and retrieval time by 30%, and building metadata inventories and schema trackers to support cross-team data governance across five active research projects. I also evaluated 15+ demographic forecasting methodologies using Python and Excel across all 67 Pennsylvania counties, validating projection models that fed directly into state agency decision-making.
+Before that, at the **Institute of State and Regional Affairs**, I went deeper into the engineering side - redesigning SQL Server schemas, profiling data quality issues, indexing key tables to cut query and retrieval time by 30%, and building metadata inventories and schema trackers to support cross-team data governance across five active research projects. I also evaluated 15+ demographic forecasting methodologies using Python and Excel across all 67 Pennsylvania counties, validating projection models that fed directly into state agency decision-making.
 
-My work lives at the intersection of **data engineering and analytics** — I write the SQL that cleans and models the data *and* build the dashboards that explain what it means. I think in pipelines: source → ingest → transform → serve → visualize. A well-designed dbt model and a query that hasn't touched a full table scan in weeks? That's my version of a good day ⚡
+My work lives at the intersection of **data engineering and analytics** - I write the SQL that cleans and models the data *and* build the dashboards that explain what it means. I think in pipelines: source → ingest → transform → serve → visualize. A well-designed dbt model and a query that hasn't touched a full table scan in weeks? That's my version of a good day ⚡
 
 ---
 
