@@ -70,8 +70,8 @@ My work lives at the intersection of **data engineering and analytics** - I writ
 
 ### beyond the data
 
-when i'm not optimizing a pipeline or chasing down a null value, you'll find me exploring new restaurants, rewatching a comfort movie, or going down a rabbit hole about something completely unrelated to data. i think the best analysts are curious about everything - not just numbers.
+i'm curious about most things - cinema, photography, music, languages, cooking, humanities, and many more. food and film are usually how i find my way into something new. the rabbit holes are deep and i don't always find my way back quickly. i think that's fine.
 
 ---
 
-*actively building out this space — projects dropping soon*
+*actively building out this space - projects dropping soon*
