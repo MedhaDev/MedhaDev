@@ -1,13 +1,14 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=hi%2C+i'm+medha+%F0%9F%A4%8D;data+analyst+%26+analytics+engineer;i+make+messy+data+make+sense." alt="Typing SVG" />
+<a href="https://github.com/MedhaDev">
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=22&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=medha+devalraj.;data+analyst+%26+analytics+engineer.;source+to+insight%2C+end+to+end." alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <a href="mailto:medhasharma.dev@gmail.com"><img src="https://img.shields.io/badge/Email-medhasharma.dev%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white&labelColor=111"/></a>
+  <a href="mailto:medhasharma.dev@gmail.com"><img src="https://img.shields.io/badge/email-medhasharma.dev%40gmail.com-111?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/medhasharma-dev"><img src="https://img.shields.io/badge/LinkedIn-medhasharma--dev-0a0a0a?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=111"/></a>
+  <a href="https://linkedin.com/in/medhasharma-dev"><img src="https://img.shields.io/badge/linkedin-medhasharma--dev-111?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open_to-Full--time_Roles-brightgreen?style=flat-square&labelColor=111"/>
+  <img src="https://img.shields.io/badge/status-open%20to%20full--time%20roles-brightgreen?style=flat-square"/>
 </p>
 
 </div>
@@ -26,51 +27,44 @@ My work lives at the intersection of **data engineering and analytics** — I wr
 
 ---
 
-### 🛠️ the toolkit
+### skills
 
-**Query & Transform**
+**Languages**
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20·%20Snowflake%20·%20T--SQL%20·%20MySQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-T--SQL%20·%20PostgreSQL%20·%20Snowflake%20·%20MySQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Pandas%20·%20NumPy%20·%20statsmodels-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-Statistical%20Analysis-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Data Modeling & Transformation**
+
 ![dbt](https://img.shields.io/badge/dbt-Data%20Modeling%20%26%20Transformation-FF694B?style=flat-square&logo=dbt&logoColor=white)
-
-**ETL / ELT & Pipelines**
-
-![Alteryx](https://img.shields.io/badge/Alteryx-ETL%20·%20Core%20Cert%20in%20progress-0078C0?style=flat-square)
-![REDCap](https://img.shields.io/badge/REDCap-Research%20Data%20Pipelines-c0392b?style=flat-square)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-ETL%20·%20Designer%20Core%20in%20progress-0078C0?style=flat-square)
 
 **Cloud & Warehousing**
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-Cloud%20Data%20Warehouse-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Infrastructure-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL%20Backend-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational%20Database-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-Hosted%20PostgreSQL%20Backend-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Visualize & Report**
+**Visualization & Reporting**
 
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard%20Design-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-PL--300%20in%20progress-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-Power%20Query%20·%20Pivot-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Business & CRM**
+**Infrastructure & Tooling**
 
-![Salesforce](https://img.shields.io/badge/Salesforce-Admin%20in%20progress-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-
----
-
-### 🍰 beyond the data
-
-when i'm not optimizing a pipeline or chasing down a null value, you'll find me exploring new restaurants, watching a good movie, or going down a rabbit hole about something completely unrelated to data. i think the best analysts are curious about everything - not just numbers.
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
+![REDCap](https://img.shields.io/badge/REDCap-Research%20Data%20Management-c0392b?style=flat-square)
 
 ---
 
-<div align="center">
+### beyond the data
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MedhaDev&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=222&title_color=ffffff&text_color=888&icon_color=c8a84b&hide_border=false)
+when i'm not optimizing a pipeline or chasing down a null value, you'll find me exploring new restaurants, rewatching a comfort movie, or going down a rabbit hole about something completely unrelated to data. i think the best analysts are curious about everything - not just numbers.
 
-<br/>
+---
 
-*📂 actively building out this space - projects dropping soon ✨*
-
-</div>
+*actively building out this space — projects dropping soon*
