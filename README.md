@@ -1,8 +1,7 @@
 <div align="center">
 <a href="https://github.com/MedhaDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=22&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Medha+Devalraj;Data+Analyst+%26+Analytics+Engineer;source+to+insight%2C+end+to+end" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=22&duration=3500&pause=800&color=60A5FA&center=true&vCenter=true&width=700&height=80&lines=Medha+Devalraj;Data+Analyst+%26+Analytics+Engineer;source+to+insight%2C+end+to+end" alt="Typing SVG" />
 </a>
-
 <p align="center">
   <a href="mailto:medhasharma.dev@gmail.com"><img src="https://img.shields.io/badge/email-medhasharma.dev%40gmail.com-111?style=flat-square&logo=gmail&logoColor=blue"/></a>
   &nbsp;
@@ -10,7 +9,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/status-open%20to%20full--time%20roles-brightgreen?style=flat-square"/>
 </p>
-
 </div>
 
 ---
